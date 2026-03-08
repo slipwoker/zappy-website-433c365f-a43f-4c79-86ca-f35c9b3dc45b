@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sentinel-intelligence-433c365f.zappy5.app/sitemap.xml

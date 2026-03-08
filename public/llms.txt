@@ -1,0 +1,58 @@
+# Sentinel Intelligence — Generative Engine Optimization Map
+
+> A sophisticated real-time tracking and intelligence platform inspired by Palantir's aesthetic, featuring live visualization of aircraft, maritime vessels, and satellites. The platform emphasizes dynamic data streams, closed airspace monitoring, blackout detection, and comprehensive flight trajectory analysis with a cinematic, high-tech interface design.
+
+---
+
+## Pages
+
+### Home
+https://sentinel-intelligence-433c365f.zappy5.app
+Real-time AIS boat tracking and vessel monitoring with cinematic data visualization. Track aircraft, maritime vessels, and satellites with advanced intelligence streams.
+
+### Platform
+https://sentinel-intelligence-433c365f.zappy5.app/platform
+Sophisticated vessel tracking live with dynamic data streams, closed airspace monitoring, and blackout detection. Experience Palantir-inspired visualization technology.
+
+### Use Cases
+https://sentinel-intelligence-433c365f.zappy5.app/use-cases
+Discover how AIS boat tracking powers defense, logistics, and security operations. Explore real-world applications of live vessel tracking and airspace intelligence.
+
+### Contact
+https://sentinel-intelligence-433c365f.zappy5.app/contact
+Get started with enterprise-grade AIS vessel tracking and real-time intelligence. Contact our team to schedule a personalized platform demonstration today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://sentinel-intelligence-433c365f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://sentinel-intelligence-433c365f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://sentinel-intelligence-433c365f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Sentinel Intelligence
+A sophisticated real-time tracking and intelligence platform inspired by Palantir's aesthetic, featuring live visualization of aircraft, maritime vessels, and satellites. The platform emphasizes dynamic data streams, closed airspace monitoring, blackout detection, and comprehensive flight trajectory analysis with a cinematic, high-tech interface design.
+
+## Target Audience
+- Aerospace Security Officials
+- Satellite Communications Teams
+
+## Industry
+software/data visualization
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://sentinel-intelligence-433c365f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://sentinel-intelligence-433c365f.zappy5.app/robots.txt
